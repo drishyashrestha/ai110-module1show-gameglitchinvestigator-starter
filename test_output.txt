@@ -1,0 +1,11 @@
+============================= test session starts =============================
+platform win32 -- Python 3.13.5, pytest-9.0.2, pluggy-1.6.0 -- C:\Users\ds3\Documents\AI_110_ Engineering\Game_Debug\ai110-module1show-gameglitchinvestigator-starter\venv\Scripts\python.exe
+cachedir: .pytest_cache
+rootdir: C:\Users\ds3\Documents\AI_110_ Engineering\Game_Debug\ai110-module1show-gameglitchinvestigator-starter
+collecting ... collected 3 items
+
+tests/test_game_logic.py::test_winning_guess PASSED                      [ 33%]
+tests/test_game_logic.py::test_guess_too_high PASSED                     [ 66%]
+tests/test_game_logic.py::test_guess_too_low PASSED                      [100%]
+
+============================== 3 passed in 0.02s ==============================

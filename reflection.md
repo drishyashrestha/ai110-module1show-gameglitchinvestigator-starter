@@ -7,14 +7,22 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 - What did the game look like the first time you ran it?
 - List at least two concrete bugs you noticed at the start  
   (for example: "the secret number kept changing" or "the hints were backwards").
+  -> The game looks simply as a guessing number game which generates random answer for each try.
+-> First bug: There is a typeerror for some input, it takes in duplicate results & also invalid input reduces our attempt inspite getting being invalid like strings.
+-> Second bug: New game button doesnot work meaning after winning a game it's infinitely showing "you won".
+-> Third bug: Range doesn't show accurate one when switching difficulty or the actual answer is not within the range.
+-> Fourth bug: Score is random as it's going up for incorrect guesses sometimes.
 
 ---
 
 ## 2. How did you use AI as a teammate?
 
 - Which AI tools did you use on this project (for example: ChatGPT, Gemini, Copilot)?
+  Claude Code & Copilot
 - Give one example of an AI suggestion that was correct (including what the AI suggested and how you verified the result).
+  Used copilot for assisting me with the command scripts for activating virtual environment
 - Give one example of an AI suggestion that was incorrect or misleading (including what the AI suggested and how you verified the result).
+
 
 ---
 
